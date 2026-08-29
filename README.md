@@ -30,3 +30,35 @@ Il dataset è liberamente utilizzabile per progetti di:
 1. **Analisi dei Trend**: Come sono cambiati lo share e l'audience del Festival con l'avvento dei social e del Fantasanremo?
 2. **Network Analysis**: Quali conduttori o artisti hanno collezionato più presenze o collaborazioni storiche?
 3. **Predizione dei Vincitori**: Studio delle metriche storiche per identificare pattern ricorrenti nei brani podisti.
+
+---
+
+## 👤 Autore
+
+**FreddyG98**
+
+Data Analyst certificato Microsoft:
+
+* Microsoft Certified: Azure Fundamentals (**AZ-900**)
+* Microsoft Certified: Azure Data Fundamentals (**DP-900**)
+
+Progetto sviluppato come dimostrazione pratica di:
+
+```text
+Data Sourcing from Public Web Sources
+Manual Data Extraction and Validation
+Historical Data Collection
+Data Cleaning and Normalization
+Data Quality Checks
+Missing Values Management
+Duplicate Detection and Removal
+Data Standardization
+Structured Dataset Design
+Microsoft Excel Data Management
+Modular Data Organization
+Preparation for Relational Data Modeling
+Star Schema and Snowflake Schema Readiness
+Business Intelligence Data Preparation
+Exploratory Data Analysis Dataset Preparation
+Data Documentation for Analytics Projects
+```
